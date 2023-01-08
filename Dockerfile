@@ -4,7 +4,7 @@
 # base system
 ################################################################################
 
-FROM ubuntu:21.04 as system
+FROM ubuntu as system
 
 
 
